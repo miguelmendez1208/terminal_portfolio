@@ -2,23 +2,23 @@
   "name": "Tasnimul H. Tauhid",
   "options": [
     {
-      "label": "about",
-      "about": "To know about me",
-      "value": "Hey there! I'm John Doe, a senior software engineer at Random Pvt. Ltd. in America  with a love for crafting digital solutions."
+      "label": "abowetawetut",
+      "about": "To know awetawetabout me",
+      "value": "Hey there! I'mtwertwtwtwt John Doe, a senior software engineer at Random Pvt. Ltd. in America  with a love for crafting digital solutions."
     },
     {
-      "label": "skills",
-      "about": "To know about my skills",
-      "value": "I'm a versatile full-stack developer, adept at turning ideas into robust web applications. <br /> <br /> Proficient in MERN stack, Redux, React-Redux, Tailwind CSS, SQL, RESTful APIs and many more."
+      "label": "skilssssls",
+      "about": "To know abousst my skills",
+      "value": "I'm a versatile awetawetfullaa-stack developer, adept at turning ideas into robust web applications. <br /> <br /> Proficient in MERN stack, Redux, React-Redux, Tailwind CSS, SQL, RESTful APIs and many more."
     },
     {
-      "label": "experience",
+      "label": "expereeeeeeeeeience",
       "about": "To know about my experience",
       "value": "I have more than 10 years of experience.",
       "data": [
         {
           "label": "Random Pvt Ltd",
-          "value": "Senior software engineer <br />  Year:  2015-present"
+          "value": "Senior softwarwaetawete engineer <br />  Year:  2015-present"
         },
         {
           "label": "Example Pvt Ltd",
@@ -29,11 +29,11 @@
     {
       "label": "projects",
       "about": "To know about my projects",
-      "value": "I've had the pleasure of working on diverse projects that showcase my skills and creativity.",
+      "value": "I've had the pleasure asdfasdfof working on diverse projects that showcase my skills and creativity.",
       "data": [
         {
-          "label": "E-commerce Platform",
-          "value": "Designed and developed a dynamic e-commerce website, featuring seamless payment processing and an extensive product catalog."
+          "label": "E-commerce Platfaassorm",
+          "value": "Designed and develosadfped a dynamic e-commerce website,wetrawetaweta featuring seamless payment processing and an extensive product catalog."
         },
         {
           "label": "Inventory Management System",
