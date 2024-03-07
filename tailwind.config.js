@@ -9,6 +9,12 @@ export default {
   },
   plugins: [
     createThemes({
+      popOS: {
+        bgcol: "#333333",
+        shebang: "#4e9a06",
+        symbol: "#3465a4",
+        command: "rgb(255,255,255)",
+      },
       ubuntu: {
         bgcol: "#300a24",
         shebang: "rgb(22, 101, 52)",
