@@ -25,17 +25,17 @@
     {
       "label": "about",
       "about": "To know about me",
-      "value": "Hi! I'm Miguel Mendez, an independent software engineer currently working on Web Reputation Systems at Values Cart in Dallas, Texas."
+      "value": "Hi! I'm Miguel Mendez, a software engineer currently working on Web Reputation Systems with Thrasher Associates LLC. in Dallas, Texas."
     },
     {
       "label": "skills",
       "about": "To know about my skills",
-      "value": "I'm a versatile full-stack developer, capable of turning ideas into robust web applications. <br /> <br /> I have expertise with React, Node.js, Redux, Tailwind CSS, RESTful APIs, Python, Java, Solidity, and I've even done some database management with MySQL as well."
+      "value": "I'm a versatile full-stack software developer, capable of turning ideas into robust web applications. <br /> <br /> I have expertise with React, Node.js, Redux, Tailwind CSS, RESTful APIs, Python, Java, Solidity, as well as backend database administration and management with MySQL, and PostgresSQL as well."
     },
     {
       "label": "experience",
       "about": "To know about my experience",
-      "value": "I have 2 years of professional software engineering experience, and also have a bachelors degree in Computer Science from the University of Texas at Dallas.",
+      "value": "I have 2 years of professional software engineering experience, as well as a bachelors of science in Computer Science from the University of Texas at Dallas.",
       "data": [
         {
           "label": "Byte Masons",
@@ -53,24 +53,29 @@
       "value": "I've had the pleasure of working on diverse projects that showcase my skills and creativity.",
       "data": [
         {
+          "label": "AmnestyOne",
+          "value": "Built a platform showcasing political prisoner cases, empowering users to advocate for their release by sending handwritten letters to members of Congress through our website. Built using Bun, React, Next.js, Stripe, Postgres, and Vercel.",
+          "url": "Amnestyone.com"
+        },
+        {
           "label": "Concentrated Liquidity Compounder",
           "value": "Designed and developed a dynamic web3 e-commerce website, featuring several crypto investment strategies for concentrated liquidity compounders to grow customers savings.",
-"url": "https://nuked-defi.vercel.app/"
+          "url": "https://nuked-defi.vercel.app/"
         },
         {
           "label": "Values Cart Chrome Extension",
           "value": "Created a chrome extension that intuitively influences consumer spending on Brands hosted on the Amazon marketplace.",
-"url": "https://valuescart.com/services"
+          "url": "https://valuescart.com/services"
         },
         {
           "label": "Values Cart Web Reputation System",
           "value": "Built the backend web reputation system for Values Cart which aligns customer spending with their ethical/political values using MySQL and Microsoft Azure.",
-"url": "https://valuescart.com/services"
+          "url": "https://valuescart.com/services"
         },
         {
           "label": "MIPS assembly calculator",
           "value": "Built a binary to hexadecimal to decimal conversion calculator written in the MIPS assembly language.",
-"url": "https://github.com/miguelmendez1208/MipsConversionCalculator"
+          "url": "https://github.com/miguelmendez1208/MipsConversionCalculator"
         }
       ]
     },
