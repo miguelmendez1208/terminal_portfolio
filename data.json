@@ -55,7 +55,7 @@
         {
           "label": "AmnestyOne",
           "value": "Built a platform showcasing political prisoner cases, empowering users to advocate for their release by sending handwritten letters to members of Congress through our website. Built using Bun, React, Next.js, Stripe, Postgres, and Vercel.",
-          "url": "Amnestyone.com"
+          "url": "https://AmnestyOne.com"
         },
         {
           "label": "Concentrated Liquidity Compounder",
