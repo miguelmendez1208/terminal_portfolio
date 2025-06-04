@@ -19,6 +19,10 @@
     {
       "label": "theme",
       "about": "To customize theme"
+    },
+    {
+      "label": "resume",
+      "about": "To download resume"
     }
   ],
   "options": [
