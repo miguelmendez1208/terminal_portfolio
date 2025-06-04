@@ -141,6 +141,22 @@ function Homepage() {
           },
         ]);
       }
+
+      else if (command === "resume") {
+        setHistory((history) => [
+          ...history,
+          {
+            command: command,
+            output: `
+              Opening resume... <br />
+              If your browser did not open it automatically,
+              you can access it <a class="underline" href="/resume.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+            `,
+          },
+        ]);
+        // Programmatically open the PDF in a new tab/window
+        window.open("/resume.pdf", "_blank", "noopener,noreferrer");
+      }
       // functionality for setname command
       else if (command.trim().startsWith("theme")) {
         const commands: string[] = userInput.trim().split(" ");
