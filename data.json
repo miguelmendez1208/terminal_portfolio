@@ -78,7 +78,7 @@
         },
         {
           "label": "MIPS assembly calculator",
-          "value": "Built a binary to hexadecimal to decimal conversion calculator written in the MIPS assembly language.",
+          "value": "Built a binary to hexadecimal to decimal conversion calculator written in the MIPS assembly language. I used bitmasking to do some of the conversions, and in the process learned about invisible line break characters.",
           "url": "https://github.com/miguelmendez1208/MipsConversionCalculator"
         }
       ]
