@@ -202,6 +202,25 @@ function Profile() {
           ],
         }));
       }
+
+      else if (command === "resume") {
+        setState((prev) => ({
+          ...prev,
+          history: [
+            ...prev.history,
+            {
+              command: command,
+              output: `
+                Opening resume... <br />
+                If your browser did not open it automatically,
+                you can access it <a class="underline" href="/resume.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+              `,
+            },
+          ],
+        }));
+        window.open("/resume.pdf", "_blank", "noopener,noreferrer");
+      }
+
       // functionality for setname command
       else if (command.trim().startsWith("setname")) {
         // get the name from the command
