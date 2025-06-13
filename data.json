@@ -29,12 +29,12 @@
     {
       "label": "about",
       "about": "To know about me",
-      "value": "Hi! I'm Miguel Mendez, a software engineer currently working on fraud detection with Liberty Mutual in Dallas, Texas. This is my portfolio, where I show off what I've created, what I learned, and where I've been. Feel free to play around with this interactive portfolio to learn more about me."
+      "value": "Hi! I'm Miguel Mendez, a software engineer currently working on claims technology at Liberty Mutual in Dallas, Texas. This is my personal portfolio, where I show off what I've built, what I learned, and where I've been. Feel free to play around with this interactive portfolio to learn more about me."
     },
     {
       "label": "skills",
       "about": "To know about my skills",
-      "value": "I'm a versatile full-stack software developer, capable of turning ideas into robust web applications. My experience expands from splashy react web applications that users love, to scalable backend AI systems serving millions of requests, creating and maintaining SQL databases to maintain data integrity and query efficiency, and even a little bit of blockchain development as well. <br /> <br /> I have expertise with React, Node.js, Redux, Tailwind CSS, RESTful APIs, Python, Java, JavaScript, TypeScript, Bun.js, Solidity, as well as backend database administration and management with MySQL, and PostgresSQL as well."
+      "value": "I'm a versatile full-stack software developer, capable of turning ideas into robust web applications. My experience expands from splashy react web applications that users love, to scalable backend AI systems serving millions of requests, to creating and maintaining SQL databases to maintain data integrity and query efficiency, and even a little bit of blockchain development as well. <br /> <br /> I have expertise with React, Node.js, HTML, CSS, JavaScript/TypeScript, Tailwind CSS, RESTful APIs, Python, Java, Bun.js, Solidity, as well as backend database administration and management with MySQL, and PostgresSQL."
     },
     {
       "label": "experience",
@@ -42,7 +42,7 @@
       "value": "I've been working professionaly as a software engineer since 2023, and obtained my Bachelors of Science in Computer Science from the University of Texas at Dallas in 2023.",
       "data": [
         {
-          "label": "LibertyMutual",
+          "label": "Liberty Mutual",
           "value": "Software Engineer. <br />  Year:  2025-curr."
         },
         {
@@ -82,7 +82,7 @@
         },
         {
           "label": "MIPS assembly calculator",
-          "value": "Built a binary to hexadecimal to decimal conversion calculator written in the MIPS assembly language. I used bitmasking to do some of the conversions, and in the process learned about invisible line break characters.",
+          "value": "Built a binary to hexadecimal to decimal conversion calculator written in the MIPS assembly language. I used bitmasking to do some of the conversions, and in the process learned about invisible line break characters in the windows operating system.",
           "url": "https://github.com/miguelmendez1208/MipsConversionCalculator"
         }
       ]
